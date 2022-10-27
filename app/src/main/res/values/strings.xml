@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="dialog_text">Cuenta verificada</string>
+    <string name="btn_check">CHECK</string>
+</resources>
